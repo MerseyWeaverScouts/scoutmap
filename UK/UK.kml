@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
-	<name>Cheshire Scout County</name>
+	<name>United Kingdom</name>
 	<Placemark>
-		<name>Forest Camp</name>
-		<description><![CDATA[Overdale Lane, Northwich, Cheshire West and Chester CW8, UK]]></description>
+		<name>Gilwell Park</name>
+		<description><![CDATA[Gilwell Park Scout Activity Centre, Chingford, LondonE4 7QW]]></description>
 		<styleUrl>http://merseyweaverscouts.github.io/scoutmap/stylesheets/scouts.kml#arrowhead</styleUrl>
 		<Point>
-		  <coordinates>-2.604123,53.219208,0.000000</coordinates>
+		  <coordinates>0.002215,51.649976,0.000000</coordinates>
 		</Point>
 	</Placemark>
 
 	<NetworkLink>
-		<name>Mersey Weaver District</name>
+		<name>Cheshire Scout County</name>
 		<refreshVisibility>0</refreshVisibility>
 		<flyToView>1</flyToView>
-		<Link><href>MerseyWeaver.kml</href>href></Link>
+		<Link><href>Cheshire/Cheshire.kml</href>href></Link>
 	</NetworkLink>
 </Document>
 </kml>
