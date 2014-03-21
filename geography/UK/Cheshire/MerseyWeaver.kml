@@ -13,7 +13,7 @@
   <Placemark>
     <name>Aquila Explorers</name>
     <description><![CDATA[<div dir="ltr">Moon Meadow, Farnworth Street, Widnes WA8 9LH</div>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/Style/ScoutStyle.kml#ScoutIcon</styleUrl>
     <Point>
       <coordinates>-2.727528,53.382175,0.000000</coordinates>
     </Point>
