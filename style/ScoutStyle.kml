@@ -3,7 +3,7 @@
 <Document>
   <name>Scout KML Styles</name>
   <description><![CDATA[]]></description>
-  <Style id="style1">
+  <Style id="ScoutIcon">
     <IconStyle>
       <Icon>
         <href>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/img/arrowhead.png</href>
