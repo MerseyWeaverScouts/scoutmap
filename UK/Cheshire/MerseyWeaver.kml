@@ -39,14 +39,6 @@
     </Point>
   </Placemark>
   <Placemark>
-    <name>Forest Camp</name>
-    <description><![CDATA[Overdale Lane, Northwich, Cheshire West and Chester CW8, UK]]></description>
-    <styleUrl>http://merseyweaverscouts.github.io/scoutmap/stylesheets/scouts.kml#arrowhead</styleUrl>
-    <Point>
-      <coordinates>-2.604123,53.219208,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>3rd Frodsham Sea Scouts</name>
     <Snippet>Greenfield Lane, Frodsham</Snippet>
     <description><![CDATA[Greenfield Lane, Frodsham]]></description>
