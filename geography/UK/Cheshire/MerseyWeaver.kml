@@ -3,13 +3,6 @@
 <Document>
   <name>Mersey Weaver Scout District</name>
   <description><![CDATA[]]></description>
-  <Style id="style1">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
   <Placemark>
     <name>Aquila Explorers</name>
     <description><![CDATA[<div dir="ltr">Moon Meadow, Farnworth Street, Widnes WA8 9LH</div>]]></description>
