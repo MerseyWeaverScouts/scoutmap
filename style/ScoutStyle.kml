@@ -6,7 +6,7 @@
   <Style id="style1">
     <IconStyle>
       <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+        <href>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/img/arrowhead.png</href>
       </Icon>
     </IconStyle>
   </Style>
