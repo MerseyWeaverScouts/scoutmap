@@ -13,7 +13,7 @@
   <Placemark>
     <name>Aquila Explorers</name>
     <description><![CDATA[<div dir="ltr">Moon Meadow, Farnworth Street, Widnes WA8 9LH</div>]]></description>
-    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/Style/ScoutStyle.kml#ScoutIcon</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.727528,53.382175,0.000000</coordinates>
     </Point>
@@ -22,7 +22,7 @@
     <name>Beacon Explorers</name>
     <Snippet>Moor Lane, Frodsham</Snippet>
     <description><![CDATA[Moor Lane, Frodsham]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.727131,53.296585,0.000000</coordinates>
     </Point>
@@ -31,7 +31,7 @@
     <name>Cestrian Explorers</name>
     <Snippet>4th Runcorn HQ, Heath Park Grove, Runcorn</Snippet>
     <description><![CDATA[4th Runcorn HQ, Heath Park Grove, Runcorn]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.737965,53.328522,0.000000</coordinates>
     </Point>
@@ -40,7 +40,7 @@
     <name>Clogwyn Activity Centre</name>
     <Snippet>Clogwyn, Port Penryhn, Bangor, Wales LL57 4HN</Snippet>
     <description><![CDATA[Clogwyn, Port Penryhn, Bangor, Wales LL57 4HN]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-4.112192,53.230946,0.000000</coordinates>
     </Point>
@@ -48,7 +48,7 @@
   <Placemark>
     <name>Forest Camp</name>
     <description><![CDATA[Overdale Lane, Northwich, Cheshire West and Chester CW8, UK]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.604123,53.219208,0.000000</coordinates>
     </Point>
@@ -57,7 +57,7 @@
     <name>3rd Frodsham Sea Scouts</name>
     <Snippet>Greenfield Lane, Frodsham</Snippet>
     <description><![CDATA[Greenfield Lane, Frodsham]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.726900,53.296940,0.000000</coordinates>
     </Point>
@@ -66,7 +66,7 @@
     <name>4th Frodsham</name>
     <Snippet>Hillside Road, Frodsham</Snippet>
     <description><![CDATA[Hillside Road, Frodsham]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.714997,53.287315,0.000000</coordinates>
     </Point>
@@ -75,7 +75,7 @@
     <name>1st Halton</name>
     <Snippet>Castle Road, Runcorn</Snippet>
     <description><![CDATA[Castle Road, Runcorn]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.695768,53.331505,0.000000</coordinates>
     </Point>
@@ -84,7 +84,7 @@
     <name>1st Helsby</name>
     <Snippet>Lower Robin Hood Lane, Helsby WA6 0BW</Snippet>
     <description><![CDATA[Lower Robin Hood Lane, Helsby WA6 0BW]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.770851,53.270802,0.000000</coordinates>
     </Point>
@@ -93,7 +93,7 @@
     <name>1st Ince and Elton</name>
     <Snippet>School Lane, Elton</Snippet>
     <description><![CDATA[School Lane, Elton]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.818701,53.273960,0.000000</coordinates>
     </Point>
@@ -102,7 +102,7 @@
     <name>Mersey Active Support Unit</name>
     <Snippet>Hough Green Social Club, Hough Green, Widnes WA8 8XR</Snippet>
     <description><![CDATA[Hough Green Social Club, Hough Green, Widnes WA8 8XR]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.775684,53.371655,0.000000</coordinates>
     </Point>
@@ -111,7 +111,7 @@
     <name>1st Moore</name>
     <Snippet>Moss Lane, Moore, Warrington</Snippet>
     <description><![CDATA[Moss Lane, Moore, Warrington]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.635709,53.354710,0.000000</coordinates>
     </Point>
@@ -120,7 +120,7 @@
     <name>1st Newton and Kingsley</name>
     <Snippet>Pike Lane, Kingsley</Snippet>
     <description><![CDATA[Pike Lane, Kingsley]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.679238,53.270531,0.000000</coordinates>
     </Point>
@@ -129,7 +129,7 @@
     <name>1st Norley</name>
     <Snippet>Crabmill Lane, Norley WA6 8JN</Snippet>
     <description><![CDATA[Crabmill Lane, Norley WA6 8JN]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.656184,53.247139,0.000000</coordinates>
     </Point>
@@ -138,7 +138,7 @@
     <name>Queen Charlotte&#39;s Wood</name>
     <Snippet>The Ridgeway, Alvanley WA6 6XO</Snippet>
     <description><![CDATA[The Ridgeway, Alvanley WA6 6XO]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.732050,53.265110,0.000000</coordinates>
     </Point>
@@ -147,7 +147,7 @@
     <name>3rd/9th Runcorn</name>
     <Snippet>Moughland Lane, Runcorn</Snippet>
     <description><![CDATA[<div dir="ltr">Moughland Lane, Runcorn</div>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.737151,53.333492,0.000000</coordinates>
     </Point>
@@ -156,7 +156,7 @@
     <name>4th Runcorn</name>
     <Snippet>Heath Park Grove, Runcorn</Snippet>
     <description><![CDATA[<div dir="ltr">Park Rd, Runcorn<br>park car near duck pond</div>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.737965,53.328522,0.000000</coordinates>
     </Point>
@@ -165,7 +165,7 @@
     <name>6th Runcorn</name>
     <Snippet>St Edward&amp;#39;s Church Hall, Ivy Street Runcorn</Snippet>
     <description><![CDATA[St Edward&#39;s Church Hall, Ivy Street Runcorn]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.728035,53.335796,0.000000</coordinates>
     </Point>
@@ -174,7 +174,7 @@
     <name>Weaver Active Support Unit</name>
     <Snippet>4th Runcorn HQ, Heath Park Grove, Runcorn</Snippet>
     <description><![CDATA[<div dir="ltr">4th Runcorn HQ, Park Road, Runcorn<br>park near duck pond</div>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.737965,53.328522,0.000000</coordinates>
     </Point>
@@ -183,7 +183,7 @@
     <name>1st Weston and Weston Point</name>
     <Snippet>Weston Road, Runcorn</Snippet>
     <description><![CDATA[Weston Road, Runcorn]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.745705,53.324139,0.000000</coordinates>
     </Point>
@@ -192,7 +192,7 @@
     <name>1st Whitley</name>
     <Snippet>Whitley Village Hall, Village Lane, Whitley</Snippet>
     <description><![CDATA[Whitley Village Hall, Village Lane, Whitley]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.576796,53.312508,0.000000</coordinates>
     </Point>
@@ -201,7 +201,7 @@
     <name>4th Widnes, St Bedes</name>
     <Snippet>Appleton Village</Snippet>
     <description><![CDATA[Appleton Village]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.730800,53.371662,0.000000</coordinates>
     </Point>
@@ -210,7 +210,7 @@
     <name>8th Widnes</name>
     <Snippet>Chesnut Lodge School, Green Lane, Widnes WA8 7HF</Snippet>
     <description><![CDATA[Chesnut Lodge School, Green Lane, Widnes WA8 7HF]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.752086,53.370293,0.000000</coordinates>
     </Point>
@@ -219,7 +219,7 @@
     <name>10th Widnes, Hough Green</name>
     <Snippet>Hall Avenue, Hough Green, Widnes WA8 8XS</Snippet>
     <description><![CDATA[<div dir="ltr">Hall Avenue, Hough Green, Widnes WA8 8XS</div>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.776237,53.370502,0.000000</coordinates>
     </Point>
@@ -228,7 +228,7 @@
     <name>12th Widnes, St Lukes</name>
     <Snippet>Moon Meadow, Farnworth Street, Widnes WA8 9LH</Snippet>
     <description><![CDATA[Moon Meadow, Farnworth Street, Widnes WA8 9LH]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.726766,53.382229,0.000000</coordinates>
     </Point>
@@ -237,7 +237,7 @@
     <name>14th Widnes, Farnworth Methodist</name>
     <Snippet>The Youth Hall, Derby Road, Widnes WA8 9JX</Snippet>
     <description><![CDATA[The Youth Hall, Derby Road, Widnes WA8 9JX]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.731057,53.380665,0.000000</coordinates>
     </Point>
@@ -245,7 +245,7 @@
   <Placemark>
     <name>Xscape Explorers</name>
     <description><![CDATA[<div dir="ltr">Hall Avenue, Hough Green, Widnes WA8 8XS</div>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.777009,53.370605,0.000000</coordinates>
     </Point>
@@ -253,7 +253,7 @@
   <Placemark>
     <name>District Office</name>
     <description><![CDATA[<div dir="ltr">Mersey Weaver District Office, The Heath SOG, Runcorn</div>]]></description>
-    <styleUrl>#style1</styleUrl>
+    <styleUrl>https://raw.githubusercontent.com/MerseyWeaverScouts/scoutmap/master/style/ScoutStyle.kml#arrowhead</styleUrl>
     <Point>
       <coordinates>-2.733793,53.323414,0.000000</coordinates>
     </Point>
