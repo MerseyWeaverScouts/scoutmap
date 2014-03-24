@@ -2,7 +2,7 @@
 <kml xmlns="http://earth.google.com/kml/2.2">
 <Document>
 	<NetworkLink>
-		<name>Cheshire Scout County</name>
+		<name>UK</name>
 		<refreshVisibility>0</refreshVisibility>
 		<flyToView>1</flyToView>
 		<Link><href>http://merseyweaverscouts.github.io/scoutmap/geography/UK/UK.kml</href>href></Link>
