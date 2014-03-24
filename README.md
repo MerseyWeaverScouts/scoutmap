@@ -1,1 +1,3 @@
-Google Maps / Earth files showing Scout locations in the UK
+# Scoutmap
+
+Google Maps/Earth files showing Scout locations in the UK
