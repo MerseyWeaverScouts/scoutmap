@@ -5,7 +5,7 @@
 	<Placemark>
 		<name>Forest Camp</name>
 		<description><![CDATA[Overdale Lane, Northwich, Cheshire West and Chester CW8, UK]]></description>
-		<styleUrl>http://merseyweaverscouts.github.io/scoutmap/stylesheets/scouts.kml#arrowhead</styleUrl>
+		<styleUrl>http://merseyweaverscouts.github.io/scoutmap/presentation/scouts.kml#arrowhead</styleUrl>
 		<Point>
 		  <coordinates>-2.604123,53.219208,0.000000</coordinates>
 		</Point>

@@ -5,7 +5,7 @@
 	<Placemark>
 		<name>Gilwell Park</name>
 		<description><![CDATA[Gilwell Park Scout Activity Centre, Chingford, LondonE4 7QW]]></description>
-		<styleUrl>http://merseyweaverscouts.github.io/scoutmap/stylesheets/scouts.kml#arrowhead</styleUrl>
+		<styleUrl>http://merseyweaverscouts.github.io/scoutmap/presentation/scouts.kml#arrowhead</styleUrl>
 		<Point>
 		  <coordinates>0.002215,51.649976,0.000000</coordinates>
 		</Point>
