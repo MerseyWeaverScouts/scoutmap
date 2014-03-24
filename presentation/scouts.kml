@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Scout KML Styles</name>
+  <description><![CDATA[]]></description>
+  <Style id="arrowhead">
+    <IconStyle>
+      <Icon>
+        <href>http://merseyweaverscouts.github.io/scoutmap/presentation/images/arrowhead.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>United Kingdom</name>
+	<Placemark>
+		<name>Gilwell Park</name>
+		<description><![CDATA[Gilwell Park Scout Activity Centre, Chingford, LondonE4 7QW]]></description>
+		<styleUrl>http://merseyweaverscouts.github.io/scoutmap/presentation/scouts.kml#arrowhead</styleUrl>
+		<Point>
+		  <coordinates>0.002215,51.649976,0.000000</coordinates>
+		</Point>
+	</Placemark>
+
+	<NetworkLink>
+		<name>Cheshire Scout County</name>
+		<refreshVisibility>0</refreshVisibility>
+		<flyToView>1</flyToView>
+		<Link><href>Cheshire/Cheshire.kml</href>href></Link>
+	</NetworkLink>
+</Document>
+</kml>
