@@ -4,7 +4,7 @@ Google Maps/Earth files showing Scout locations in the UK
 
 ## Usage
 
-Download the main file from the project's homepage:
+Download the project's main file:
 
 http://merseyweaverscouts.github.io/scoutmap/scoutmap.kml
 
